@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSjuan
 - 👀 I’m interested in music and games.
-- 🌱 I’m currently learning Fullstack Development.
+- 🌱 I’m currently learning about Fullstack Development.
 - 📫 How to reach me:
     - +54 9 351 5168929 (Telegram & Whatsapp)
     - juanserafinijs@outlook.com
